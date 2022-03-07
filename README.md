@@ -12,7 +12,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 ### Additional Filtering
 Using JavaScript and HTML, I've modify the code in my index.html file to create more table filters. In addition to the date filter I created in the class module, I've added filters for the city, state, country, and shape, as shown in the image below.  
 
-Enter in the criteria you are interested in filtering to.  I chose to filter to sightings with triangle shaped objects.
+Enter in the criteria you are interested in filtering to.  I chose to filter to sightings with triangle-shaped objects.
 
 ![image](https://user-images.githubusercontent.com/87340105/156949534-701f1ba6-d162-42e0-85ea-aee352324444.png)
 
@@ -29,7 +29,7 @@ There were a few drawbacks to the way the webpage performs as is written:
 
 1.) There isn't a clear filters button to clear the data if you want to perform a new search.
 
-2.) The data is case senstive so I got no results when I typed in "Triangle" with a capital "T".
+2.) The data is case sensitive so I got no results when I typed in "Triangle" with a capital "T".
 
 ![image](https://user-images.githubusercontent.com/87340105/156950000-d95c8d7c-3ec6-4fed-a7b9-3239fa6c5c05.png)
 
@@ -37,8 +37,8 @@ There were a few drawbacks to the way the webpage performs as is written:
 
 
 #### Recommendations for further development:
-
+i
 1.) I would address the above drawbacks by adding in a "Clear Results" filter button.
 
-2.) I would add additional script to allow for leeway in case sensativity.
+2.) I would add an additional script to allow for leeway in case senstivity.
 
