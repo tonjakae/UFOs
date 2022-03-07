@@ -10,7 +10,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 
 ## Deliverable 1:
 ### Additional Filtering
-Using JavaScript and HTML, I've modify the code in my index.html file to create more table filters. In addition to the date filter I created in the class module, I've added filters for the city, state, country, and shape, as shown in the image below.  
+Using JavaScript and HTML, I've modified the code in my index.html file to create more table filters. In addition to the date filter I created in the class module, I've added filters for the city, state, country, and shape, as shown in the image below.  
 
 Enter in the criteria you are interested in filtering to.  I chose to filter to sightings with triangle-shaped objects.
 
@@ -37,8 +37,8 @@ There were a few drawbacks to the way the webpage performs as is written:
 
 
 #### Recommendations for further development:
-i
-1.) I would address the above drawbacks by adding in a "Clear Results" filter button.
 
-2.) I would add an additional script to allow for leeway in case senstivity.
+1.) I would address the above drawbacks by adding a "Clear Results" filter button.
+
+2.) I would add an additional script to allow for leeway in case sensitivity.
 
